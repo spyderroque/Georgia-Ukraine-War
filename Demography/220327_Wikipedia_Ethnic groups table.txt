@@ -1,0 +1,513 @@
+<table class="wikitable">
+<caption>
+<b>Population of Georgia according to ethnic group 1926–2014</b>
+</caption>
+<tbody><tr bgcolor="#e0e0e0">
+<th rowspan="2">Ethnic<br>group
+</th>
+<th colspan="2">census 1926<sup>1</sup>
+</th>
+<th colspan="2">census 1939<sup>2</sup>
+</th>
+<th colspan="2">census 1959<sup>3</sup>
+</th>
+<th colspan="2">census 1970<sup>4</sup>
+</th>
+<th colspan="2">census 1979<sup>5</sup>
+</th>
+<th colspan="2">census 1989<sup>6</sup>
+</th>
+<th colspan="2">census 2002<sup>6</sup>
+</th>
+<th colspan="2">census 2014<sup>7</sup>
+</th></tr>
+<tr bgcolor="#e0e0e0">
+<th>Number
+</th>
+<th>%
+</th>
+<th>Number
+</th>
+<th>%
+</th>
+<th>Number
+</th>
+<th>%
+</th>
+<th>Number
+</th>
+<th>%
+</th>
+<th>Number
+</th>
+<th>%
+</th>
+<th>Number
+</th>
+<th>%
+</th>
+<th>Number
+</th>
+<th>%
+</th>
+<th>Number
+</th>
+<th>%
+</th></tr>
+<tr>
+<td><a href="/wiki/Georgians" title="Georgians">Georgians</a>
+</td>
+<td align="right">1,788,186
+</td>
+<td align="right">66.8
+</td>
+<td align="right">2,173,922
+</td>
+<td align="right">61.4
+</td>
+<td align="right">2,600,588
+</td>
+<td align="right">64.3
+</td>
+<td align="right">3,130,741
+</td>
+<td align="right">66.8
+</td>
+<td align="right">3,433,011
+</td>
+<td align="right">68.8
+</td>
+<td align="right">3,787,393
+</td>
+<td align="right">70.1
+</td>
+<td align="right">3,661,173
+</td>
+<td align="right">83.8
+</td>
+<td align="right">3,224,564
+</td>
+<td align="right">86.8
+</td></tr>
+<tr>
+<td><a href="/wiki/Azerbaijani_people" class="mw-redirect" title="Azerbaijani people">Azerbaijanis</a>
+</td>
+<td align="right">137,921<sup id="cite_ref-43" class="reference"><a href="#cite_note-43">[41]</a></sup>
+</td>
+<td align="right">5.2
+</td>
+<td align="right">188,058<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">[42]</a></sup>
+</td>
+<td align="right">5.3
+</td>
+<td align="right">153,600
+</td>
+<td align="right">3.8
+</td>
+<td align="right">217,758
+</td>
+<td align="right">4.6
+</td>
+<td align="right">255,678
+</td>
+<td align="right">5.1
+</td>
+<td align="right">307,556
+</td>
+<td align="right">5.7
+</td>
+<td align="right">284,761
+</td>
+<td align="right">6.5
+</td>
+<td align="right">233,024
+</td>
+<td align="right">6.3
+</td></tr>
+<tr>
+<td><a href="/wiki/Armenians" title="Armenians">Armenians</a>
+</td>
+<td align="right">307,018
+</td>
+<td align="right">11.5
+</td>
+<td align="right">415,013
+</td>
+<td align="right">11.7
+</td>
+<td align="right">442,916
+</td>
+<td align="right">11.0
+</td>
+<td align="right">452,309
+</td>
+<td align="right">9.7
+</td>
+<td align="right">448,000
+</td>
+<td align="right">9.0
+</td>
+<td align="right">437,211
+</td>
+<td align="right">8.1
+</td>
+<td align="right">248,929
+</td>
+<td align="right">5.7
+</td>
+<td align="right">168,102
+</td>
+<td align="right">4.5
+</td></tr>
+<tr>
+<td><a href="/wiki/Russians" title="Russians">Russians</a>
+</td>
+<td align="right">96,085
+</td>
+<td align="right">3.6
+</td>
+<td align="right">308,684
+</td>
+<td align="right">8.7
+</td>
+<td align="right">407,886
+</td>
+<td align="right">10.1
+</td>
+<td align="right">396,694
+</td>
+<td align="right">8.5
+</td>
+<td align="right">371,608
+</td>
+<td align="right">7.4
+</td>
+<td align="right">341,172
+</td>
+<td align="right">6.3
+</td>
+<td align="right">67,671
+</td>
+<td align="right">1.5
+</td>
+<td align="right">26,453
+</td>
+<td align="right">0.7
+</td></tr>
+<tr>
+<td><a href="/wiki/Ossetians" title="Ossetians">Ossetians</a>
+</td>
+<td align="right">113,298
+</td>
+<td align="right">4.2
+</td>
+<td align="right">147,677
+</td>
+<td align="right">4.2
+</td>
+<td align="right">141,178
+</td>
+<td align="right">3.5
+</td>
+<td align="right">150,185
+</td>
+<td align="right">3.2
+</td>
+<td align="right">160,497
+</td>
+<td align="right">3.2
+</td>
+<td align="right">164,055
+</td>
+<td align="right">3.0
+</td>
+<td align="right">38,028
+</td>
+<td align="right">0.9
+</td>
+<td align="right">14,385
+</td>
+<td align="right">0.4
+</td></tr>
+<tr>
+<td><a href="/wiki/Yazidis" title="Yazidis">Yazidis</a>
+</td>
+<td align="right">2,262
+</td>
+<td align="right">0.1
+</td>
+<td rowspan="2" align="right">12,915
+</td>
+<td rowspan="2" align="right">0.4
+</td>
+<td rowspan="2" align="right">16,212
+</td>
+<td rowspan="2" align="right">0.4
+</td>
+<td rowspan="2" align="right">20,690
+</td>
+<td rowspan="2" align="right">0.4
+</td>
+<td rowspan="2" align="right">25,688
+</td>
+<td rowspan="2" align="right">0.5
+</td>
+<td rowspan="2" align="right">33,331
+</td>
+<td rowspan="2" align="right">0.6
+</td>
+<td align="right">18,329
+</td>
+<td align="right">0.4
+</td>
+<td align="right">12,174
+</td>
+<td align="right">0.3
+</td></tr>
+<tr>
+<td><a href="/wiki/Kurds" title="Kurds">Kurds</a>
+</td>
+<td align="right">7,955
+</td>
+<td align="right">0.3
+</td>
+<td align="right">2,514
+</td>
+<td align="right">0.1
+</td>
+<td align="right">1,596
+</td>
+<td align="right">0.0
+</td></tr>
+<tr>
+<td><a href="/wiki/Ukrainians" title="Ukrainians">Ukrainians</a>
+</td>
+<td align="right">14,356
+</td>
+<td align="right">0.5
+</td>
+<td align="right">45,595
+</td>
+<td align="right">1.3
+</td>
+<td align="right">52,236
+</td>
+<td align="right">1.3
+</td>
+<td align="right">49,622
+</td>
+<td align="right">1.1
+</td>
+<td align="right">45,036
+</td>
+<td align="right">0.9
+</td>
+<td align="right">52,443
+</td>
+<td align="right">1.0
+</td>
+<td align="right">7,039
+</td>
+<td align="right">0.2
+</td>
+<td align="right">6,034
+</td>
+<td align="right">0.2
+</td></tr>
+<tr>
+<td><a href="/wiki/Greeks" title="Greeks">Greeks</a>
+</td>
+<td align="right">54,051
+</td>
+<td align="right">2.0
+</td>
+<td align="right">84,636
+</td>
+<td align="right">2.4
+</td>
+<td align="right">72,938
+</td>
+<td align="right">1.8
+</td>
+<td align="right">89,246
+</td>
+<td align="right">1.9
+</td>
+<td align="right">95,105
+</td>
+<td align="right">1.9
+</td>
+<td align="right">100,324
+</td>
+<td align="right">1.9
+</td>
+<td align="right">15,166
+</td>
+<td align="right">0.3
+</td>
+<td align="right">5,544
+</td>
+<td align="right">0.2
+</td></tr>
+<tr>
+<td><a href="/wiki/Assyrian_people" title="Assyrian people">Assyrians</a>
+</td>
+<td align="right">2,904
+</td>
+<td align="right">0.1
+</td>
+<td align="right">4,707
+</td>
+<td align="right">0.1
+</td>
+<td align="right">5,005
+</td>
+<td align="right">0.1
+</td>
+<td align="right">5,617
+</td>
+<td align="right">0.1
+</td>
+<td align="right">5,286
+</td>
+<td align="right">0.1
+</td>
+<td align="right">6,206
+</td>
+<td align="right">0.1
+</td>
+<td align="right">3,299
+</td>
+<td align="right">0.1
+</td>
+<td align="right">2,377
+</td>
+<td align="right">0.1
+</td></tr>
+<tr>
+<td><a href="/wiki/Jews" title="Jews">Jews</a>
+</td>
+<td align="right">30,389
+</td>
+<td align="right">1.1
+</td>
+<td align="right">42,300
+</td>
+<td align="right">1.2
+</td>
+<td align="right">51,582
+</td>
+<td align="right">1.3
+</td>
+<td align="right">55,382
+</td>
+<td align="right">1.2
+</td>
+<td align="right">28,298
+</td>
+<td align="right">0.6
+</td>
+<td align="right">24,795
+</td>
+<td align="right">0.5
+</td>
+<td align="right">2,333
+</td>
+<td align="right">0.0
+</td>
+<td align="right">1,405
+</td>
+<td align="right">0.0
+</td></tr>
+<tr>
+<td><a href="/wiki/Abkhazians" title="Abkhazians">Abkhazians</a>
+</td>
+<td align="right">56,847
+</td>
+<td align="right">2.1
+</td>
+<td align="right">57,805
+</td>
+<td align="right">1.6
+</td>
+<td align="right">62,878
+</td>
+<td align="right">1.5
+</td>
+<td align="right">79,449
+</td>
+<td align="right">1.7
+</td>
+<td align="right">85,285
+</td>
+<td align="right">1.7
+</td>
+<td align="right">95,853
+</td>
+<td align="right">1.8
+</td>
+<td align="right">3,527
+</td>
+<td align="right">0.1
+</td>
+<td align="right">864
+</td>
+<td align="right">0.0
+</td></tr>
+<tr>
+<td>Others
+</td>
+<td align="right">65,961
+</td>
+<td align="right">2.5
+</td>
+<td align="right">58,711
+</td>
+<td align="right">1.7
+</td>
+<td align="right">37,026
+</td>
+<td align="right">0.9
+</td>
+<td align="right">38,665
+</td>
+<td align="right">0.8
+</td>
+<td align="right">39,690
+</td>
+<td align="right">0.8
+</td>
+<td align="right">50,502
+</td>
+<td align="right">0.9
+</td>
+<td align="right">18,766
+</td>
+<td align="right">0.4
+</td>
+<td align="right">17,282
+</td>
+<td align="right">0.5
+</td></tr>
+<tr bgcolor="#e0e0e0">
+<th align="left">Total
+</th>
+<th colspan="2">2,677,233
+</th>
+<th colspan="2">3,540,023
+</th>
+<th colspan="2">4,044,045
+</th>
+<th colspan="2">4,686,358
+</th>
+<th colspan="2">4,993,182
+</th>
+<th colspan="2">5,400,841
+</th>
+<th colspan="2">4,371,535
+</th>
+<th colspan="2">3,713,804
+</th></tr>
+<tr>
+<td colspan="17"><small><sup>1</sup> Source: <a rel="nofollow" class="external autonumber" href="http://demoscope.ru/weekly/ssp/sng_nac_26.php?reg=2330">[1]</a>. <sup>2</sup> Source: <a rel="nofollow" class="external autonumber" href="http://demoscope.ru/weekly/ssp/sng_nac_39.php">[2]</a>. <sup>3</sup> Source: <a rel="nofollow" class="external autonumber" href="http://demoscope.ru/weekly/ssp/sng_nac_59.php">[3]</a>. <sup>4</sup> Source: <a rel="nofollow" class="external autonumber" href="http://demoscope.ru/weekly/ssp/sng_nac_70.php">[4]</a>. <sup>5</sup> Source: <a rel="nofollow" class="external autonumber" href="http://demoscope.ru/weekly/ssp/sng_nac_79.php">[5]</a>. <sup>6</sup> Source: <a rel="nofollow" class="external autonumber" href="http://demoscope.ru/weekly/ssp/sng_nac_89.php">[6]</a>. <sup>7</sup> Source: <a rel="nofollow" class="external autonumber" href="https://web.archive.org/web/20170205175903/http://geostat.ge/cms/site_images/_files/english/population/Census_release_ENG_2016.pdf">[7]</a>. </small>
+</td></tr></tbody></table>
