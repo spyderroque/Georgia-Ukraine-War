@@ -2,19 +2,19 @@ name: GeUaEnv
 channels:
   - defaults
 dependencies:
-  - beautifulsoup4=4.10.0=pyh06a4308_0
-  - html5lib=1.1=pyhd3eb1b0_0
-  - json5=0.9.6=pyhd3eb1b0_0
-  - matplotlib=3.5.1=py39haa95532_1
-  - matplotlib-base=3.5.1=py39hd77b12b_1
-  - matplotlib-inline=0.1.2=pyhd3eb1b0_2
-  - numpy=1.21.5=py39ha4e8547_0
-  - numpy-base=1.21.5=py39hc2deb75_0
-  - openpyxl=3.0.9=pyhd3eb1b0_0
-  - pandas=1.4.1=py39hd77b12b_0
-  - plotly=5.6.0=pyhd3eb1b0_0
-  - python=3.9.7=h6244533_1
-  - seaborn=0.11.2=pyhd3eb1b0_0
+  - beautifulsoup4=4.10.0
+  - html5lib=1.1
+  - json5=0.9.6
+  - matplotlib=3.5.1
+  - matplotlib-base=3.5.1
+  - matplotlib-inline=0.1.2
+  - numpy=1.21.5
+  - numpy-base=1.21.5
+  - openpyxl=3.0.9
+  - pandas=1.4.1
+  - plotly=5.6.0
+  - python=3.9.7
+  - seaborn=0.11.2
   - pip:
     - folium==0.12.1.post1
     - streamlit==1.7.0
