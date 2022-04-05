@@ -84,7 +84,7 @@ fig.add_trace(go.Scatter(x=markerPosT_UN, y = markerYT_UN, mode = 'markers', mar
 fig.add_trace(go.Scatter(x=markerPosT_Ge, y = markerYT_Ge, mode = 'markers', marker_color='red', showlegend=False))
 st.plotly_chart(fig, use_container_width=True)
 
-st.write("Population data as given by the state of Georgia (Source: https://geostat.ge/media/38040/01---population-by-self-governed-unit.xlsx). Unlike the UN data these data do not include estimates for Abkhazia and South Ossetia. Abkhazia was as a matter of fact never controlled by the Georgian state and South Ossetia is missing in the estimates from 2008 onward (i.e. census of 2014.) The marking indicate values gained in a census. The long gap between the censi 1989 and 2002 reflects a period of transition. Between 1991 and the mid 90s Georgia was occupied with its secession from the USSR / Russia and then years of civil war.")
+st.write("Population data as given by the state of Georgia (Source: https://geostat.ge/media/38040/01---population-by-self-governed-unit.xlsx). Unlike the UN data these data do not include estimates for Abkhazia and South Ossetia. Abkhazia was as a matter of fact never controlled by the Georgian state and South Ossetia is missing in the estimates from 2008 onward (i.e. census of 2014.) The markings indicate values gained in a census. The long gap between the censi 1989 and 2002 reflects a period of transition. Between 1991 and the mid 90s Georgia was occupied with its secession from the USSR / Russia and then years of civil war.")
 st.write(" For the pupose of this project I will use the estimations of the Georgian state in which South Ossetia and Abkhazia are no longer listed following 2008.")
 st.write("The following chloropeth and area chart show the evolution of the population in each region of Georgia.")
 
@@ -107,7 +107,7 @@ folium.Choropleth(
     columns=["regions, self-governed units", year_value],
     key_on="feature.properties.NAME_1",
     fill_color= "YlOrRd",
-    fill_opacity=0.5,
+    fill_opacity=0.7,
     line_opacity=0.2,
     nan_fill_color="blue",
     nan_fill_opacity = 0.2,
@@ -154,9 +154,12 @@ fig10.update_layout(title = 'Population Pyramid of Georgia (2021)',
                               title = 'Population',
                               title_font_size = 14),
                  )
-fig10.add_hrect(y0=29, y1=46, line_width=0, fillcolor="yellow", opacity=0.3)
+#fig10.add_hrect(y0=29, y1=46, line_width=0, fillcolor="yellow", opacity=0.3)
+fig10.add_hline(y=46, line_width = 2, line_dash = "dash", line_color = "black")
+fig10.add_hline(y=29, line_width = 2, line_dash = "dash", line_color = "black")
 st.plotly_chart(fig10, use_container_width=True)
 
+st.write("Not withstanding the decrease of population the above charts do not show anything remarkable to the question at hand. The population pyramid,however, gives us some interesting clues. Georgia has a rather young population compared to most western European societies. The black line in the pyramid indicates the age group which was 15 years of age at the abolishion of the USSR in 1991. The assumption is made that this age group and the groups below the black line don't have any significant experiences of life in USSR or Russia. The white line is the age group which was 15 years of age during the Russian-Georgian war in 2008 and therefore have no or a limited memory of the pre-war period. This information is vital as the standard of living dropped significantly after seccession from the USSR. The final chapter of the post-soviet era closed only in 2002 when former soviet minister of foreign affairs and president of Georgia, Eduard Shevardnaze, was ousted from his office during the so called 'rose revolution'. The succeding government made substantial changes towards a liberal market economy and focus towards western countries. **CITATION MISSING** ")
 
 st.write("### Methodology")
 st.write(" Lorem ipsum dolor...")
