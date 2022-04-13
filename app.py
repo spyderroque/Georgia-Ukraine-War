@@ -3,7 +3,7 @@
 
 """
 
-from turtle import window_width
+#from turtle import window_width
 import streamlit as st
 import pandas as pd
 from pandas import IndexSlice as idx
