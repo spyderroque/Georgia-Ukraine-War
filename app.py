@@ -167,18 +167,14 @@ st.write("Not withstanding the decrease of population the above charts do not sh
 st.write("The final chapter of the post-soviet era closed only in 2002 when former soviet minister of foreign affairs and president of Georgia, Eduard Shevardnaze, was ousted from his office during the so called 'rose revolution'. The succeding government made substantial changes towards a liberal market economy and focus towards western countries.[6] The demography by ethnicity doesn't reveal anything interesting either. The drop of in the russian and ossetian population is explained by the events described above." )
 
 df_EthnicityTime = pd.read_pickle('Demography/df_EthnicityTime.pkl')
-df_EthnicityTime.drop(index = 13, inplace = True)
-columns_names =list(zip(*df_EthnicityTime.columns.values))[0] # this creates a list of the top headers with index 0 being "Ethnicgroup", each value appears twice
-
-fig40 = go.Figure()
-for columns_header in range(1, len(columns_names),2):
-    fig40.add_trace(go.Bar(name = columns_names[columns_header], x = list(df_EthnicityTime.loc[:, idx["Ethnicgroup", "Ethnicgroup"]]), y = list(df_EthnicityTime.loc[:,idx[columns_names[columns_header], "%"]])))
-st.plotly_chart(fig40, use_container_width=True)
+#df_EthnicityTime
+fig20 = px.bar(df_EthnicityTime, x='Year', y=list(df_EthnicityTime.columns.values)[1:17], labels = {'Year':'Year of census', 'value':'Percentage of population', 'variable':''})
+fig20.update_layout(legend_orientation = 'h', legend_yanchor = "top", legend_y = 1.1)
+st.plotly_chart(fig20, use_container_width=True)
 
 st.write("### Methodology")
-st.write("In this section we took an initial look at Georgia and its demography. The data source for the population estimates can be found on the the website of the UN database http://data.un.org. The population estimates of the Georgian states are found under https://geostat.ge/media/38040/01---population-by-self-governed-unit.xlsx. The data about ethnicity is found under  http://census.ge/files/results/english/17_Total%20population%20by%20regions%20and%20ethnicity.xls. Asa there seems to be inconsistencies in latter file. I web scraped https://en.wikipedia.org/wiki/Demographics_of_Georgia_(country) on 02/04/2022.")
+st.write("In this section we took an initial look at Georgia and its demography. The data source for the population estimates can be found on the the website of the UN database http://data.un.org. The population estimates of the Georgian states are found under https://geostat.ge/media/38040/01---population-by-self-governed-unit.xlsx. The data about ethnicity is found under  http://census.ge/files/results/english/17_Total%20population%20by%20regions%20and%20ethnicity.xls. As there seems to be inconsistencies in latter file, I web scraped https://en.wikipedia.org/wiki/Demographics_of_Georgia_(country) on 02/04/2022.")
 
-st.write(" Lorem ipsum dolor...")
 st.write("## Economics ")
 st.write("### Methodology")
 st.write(" Lorem ipsum dolor...")
